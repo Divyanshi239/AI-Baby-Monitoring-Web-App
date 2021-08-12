@@ -5,7 +5,7 @@ objects = [];
 
 function preload()
 {
-    audio = loadSound("Feel it.mp3");
+    audio = loadSound("Feel It.mp3");
 }
 
 function setup()
