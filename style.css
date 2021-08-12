@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+canvas {
+    border: solid grey 5px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgb(241, 178, 61);
+    margin-top: 30px;
+}
+
+.note {
+    background-color: transparent;
+    border: transparent;
+    font-size: 18px;
+}
