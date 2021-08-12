@@ -60,7 +60,7 @@ function draw()
         objectDetector.detect(video, gotResult);
         for(i = 0; i < objects.length; i++)
         {
-            if(objects[i].label = "person")
+            if(objects[i].label == "person")
             {
             document.getElementById("status").innerHTML = "Status: Baby Detected";
             audio.stop();
